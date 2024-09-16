@@ -1,0 +1,62 @@
+ body {
+    margin: 0%;
+    width: auto;
+    background-color:rgb(255, 251, 0);
+    background-size: auto;
+    
+}
+ #name{
+    font-size: 160px;
+    text-align: center;
+    letter-spacing: 20px;
+    position: absolute;
+    padding-left:100;
+    
+
+
+ }
+ #logo-img {
+    width: 150px;
+    margin: 0;
+    padding-left: 20px;
+    padding-top: 20px;
+    
+
+ }
+ #picture1{
+    padding-left:680px ;
+    width: 600px;
+    bottom: 90px;
+    
+
+ }
+ #picture2{
+   width: 80px; 
+   bottom: 555px; 
+   position: relative;
+   padding-left:100px;
+ }
+  
+
+
+ #words{
+   bottom: 300px; 
+   padding-left: 50px;
+   position: relative;
+   font-size:20px ;
+   margin-bottom: 10px;
+
+ }
+ 
+ #footer{
+   position: absolute;
+   padding-left: 150px;
+   top: 1000px;
+   font-size: 20px;
+   color:black;
+}
+
+
+
+
+ 
